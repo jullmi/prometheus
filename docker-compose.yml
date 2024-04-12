@@ -56,7 +56,7 @@ volumes:
 
 networks:
   monitoring:
-  driver: bridge
+    driver: bridge
     
 
 
